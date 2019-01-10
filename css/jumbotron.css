@@ -1,0 +1,144 @@
+.center { margin: 0 auto; width: 560px; }
+
+.navbar-inverse{
+  font-family: "Garamond";
+}
+.container{
+  height: 500px;
+  width: 1280px;
+  background-image: url(../img/35mm.jpg);
+  font: 12px;
+  font-family: "Garamond";
+  color: black;
+  padding-top: 60px;
+}
+
+a:link{
+  color: #00ae97;
+}
+a:hover{
+  color:#d5c7d3;
+  text-decoration: none;
+}
+* { margin: 0; padding: 0; }
+
+#page-wrap { width: 1000px;
+            height: 300px;
+            margin: 15px auto;
+            position: relative;
+            font: 14px/1.4 "Trebuchet MS", serif;}
+
+p { margin: 0 0 15px 0; }
+
+.contain{ float: left;}
+#footer{  background-color: #e6b400;
+          padding: 10px;
+          height: 200px;
+          font: 14px/1.4 Georgia, serif;
+          width: 100%;
+
+        }
+
+li {  margin: 5px 0 0 3px;
+      color: black;}
+
+.container-fluid { width: 900px;  float: left;}
+
+h1{ font-family: "Didot";
+    color: #ffe180}
+
+#sidebar{
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.6);
+
+  border-radius: 5px;
+
+  padding: 10px;
+  position:fixed;
+  top:110px;
+  left:60%;
+  margin-left:350px;
+  width:65px;
+  box-shadow: 2.5px 2.5px 2.5px #fff3cc;
+  z-index : 1;
+}
+
+img{
+  max-width: 100%;
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+a img:hover{
+             -moz-transform: scale(1.05);
+             -webkit-transform: scale(1.05);
+             transform: scale(1.05);
+             -webkit-filter: brightness(90%);
+            filter: brightness(90%);
+           }
+.col-sm-4 a img{ padding: 0;
+
+                }
+.col-sm-4 a img:hover{
+             -moz-transform: scale(1.05);
+             -webkit-transform: scale(1.05);
+             transform: scale(1.05);
+             -webkit-filter: brightness(35%);
+             filter: brightness(35%);
+             box-shadow: 4px 4px 4px #ffe279;
+           }
+
+.col-sm-4 a span{ display: none;}
+.col-sm-4 a:hover span{ display: block;}
+.col-sm-4 p{ display: none;}
+.col-sm-4:hover p{ display: block;}
+
+span.text-content {
+  //background: rgba(0,0,0,0.5);
+  color: #ffe279;
+  cursor: pointer;
+  display: table;
+  height: 30px;
+  left: 10px;
+  position: absolute;
+  top: 110px;
+  width: 250px;
+  font: 14px/1.4, Georgia, serif;
+}
+span.text-content span {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.contactImg{
+  float: left;
+  display: block;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+#contactMe p {
+  margin-left: 300px
+
+}
+#contactMe a{
+  color: #00ae97;
+  text-decoration: none;
+}
+#contactMe a:hover{
+  color:#d5c7d3
+}
+
+hr {
+  border: 0;
+  clear:both;
+  display:block;
+  width: 100%;
+  background-color:#d9d9d9;
+  height: 1px;
+}
+.row{
+  margin-top: 15px;
+}
