@@ -1,0 +1,130 @@
+@font-face {
+  font-family: HeaderNameFont;
+  src: url(./assets/Colaborate/ColabLig.otf);
+}
+@font-face {
+  font-family: NameFont;
+  src: url(./assets/kalam/Kalam-Light.ttf);
+}
+@font-face {
+  font-family: HeaderFont;
+  src: url(./assets/billy-argel_tomatoes/TOMATOES.ttf);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.App {
+  padding: 0;
+  margin: 0;
+  align-content: center;
+}
+
+.navBar-Link {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.navBar-Link:hover {
+  color: red;
+}
+
+.Top-NavBar {
+  background-color:#282a2b;
+  font-weight: 100;
+  font-size: 13.5px;
+}
+.DownArrow {
+  height: 50px;
+  width: 50px;
+}
+
+@keyframes bounce {
+	0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+	30% {
+    transform: translateY(12px);
+  }
+  70% {
+    transform: translateY(18px);
+  }
+}
+.bounce {
+  animation : bounce 1.5s infinite;
+}
+
+.Header-Img {
+  position: relative;
+  margin-top: 5px;
+}
+.Header-Text {
+  position: absolute;
+  left: 125px;
+  top: 165px; 
+  font-size: 86px;
+  color: #fee086;
+  font-family: HeaderFont;
+  text-shadow: 2px 2px 2px #313235;
+}
+.Header-SubText {
+  font-family: HeaderNameFont;
+  text-shadow: none;
+  font-size: 16px;
+  color: #000;
+  font-weight: 100;
+}
+.Heading {
+  font-family: HeaderFont;
+  color: #cca000;
+  text-shadow: 0.5px 0.5px 0.5px #000;
+}
+#Name {
+  font-family: NameFont;
+  font-size: 20px;
+  font-size: 35px;
+}
+.ContentColumn {
+  text-align: justify;
+  font-family: HeaderNameFont;
+
+}
+
+.ContentRow {
+  padding: 20px;
+}
+.ContentRow:hover {
+border-left-style: solid;
+}
+.Content {
+  text-align: justify;
+  font-family: HeaderNameFont;
+}
+.CollapseImg{
+  transition: transform .25s;
+}
+.CollapseImg:hover {
+  box-shadow: 10px 10px 12px #313235;
+  -ms-transform: scale(1.015); /* IE 9 */
+  -webkit-transform: scale(1.015); /* Safari 3-8 */
+  transform: scale(1.015); 
+  filter:brightness(30%)
+}
+.Icon{
+  height:32px;
+  width:32px;
+  transition: transform .2s;
+}
+.Icon:hover{
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1); 
+}
+a {
+  color: #1aac97;
+}
+a:hover {
+  color: #d5cfe1;
+}
+a:active {
+  color: #e5b328;
+}
