@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e33f5f333a9c0d3e0ddc01a95ed9907a",
+    "revision": "6fdb89c749bb86b04f306167fb7ffd12",
     "url": "/index.html"
   },
   {
-    "revision": "c602ac8ec7f0adf5b9a5",
+    "revision": "e00e86d5dfbc6651dbe5",
     "url": "/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "ba81c1456010c939efb8",
-    "url": "/static/css/main.0241b838.chunk.css"
+    "revision": "26d709d522fb76e6f17b",
+    "url": "/static/css/main.79bda1c2.chunk.css"
   },
   {
-    "revision": "c602ac8ec7f0adf5b9a5",
-    "url": "/static/js/2.5dc81bb6.chunk.js"
+    "revision": "e00e86d5dfbc6651dbe5",
+    "url": "/static/js/2.9270d529.chunk.js"
   },
   {
-    "revision": "ba81c1456010c939efb8",
-    "url": "/static/js/main.d4909997.chunk.js"
+    "revision": "26d709d522fb76e6f17b",
+    "url": "/static/js/main.6bff0e36.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -44,6 +44,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/TOMATOES.5eeaab68.ttf"
   },
   {
+    "revision": "b9dda4f13edaae258f85ecc40bede09c",
+    "url": "/static/media/audio.b9dda4f1.png"
+  },
+  {
     "revision": "6985cca8825ebcb5e136b66c2180ee07",
     "url": "/static/media/bestFyp.6985cca8.png"
   },
@@ -52,8 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bootstrap.ffded238.svg"
   },
   {
+    "revision": "fa36c024b94f020549c5481639a26ba1",
+    "url": "/static/media/camera2.fa36c024.jpg"
+  },
+  {
     "revision": "1f63d64c77739fe4f648e0c274ba0b77",
-    "url": "/static/media/camera2.1f63d64c.jpg"
+    "url": "/static/media/camera2_1.1f63d64c.jpg"
   },
   {
     "revision": "66a4b03b7a55554417fa77f7850e272b",
@@ -88,8 +96,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nodejs.b337a2fb.svg"
   },
   {
+    "revision": "291cf170eb84fa22e664601a2912d2c8",
+    "url": "/static/media/piano3.291cf170.jpg"
+  },
+  {
     "revision": "f1b0b4cc248a0952726602b1cf86201e",
-    "url": "/static/media/piano3.f1b0b4cc.jpg"
+    "url": "/static/media/piano3_1.f1b0b4cc.jpg"
   },
   {
     "revision": "e3c9db751a5391626d914e87ec7e3932",
@@ -105,7 +117,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "b00aa22d5542de9969fc85f5840a286c",
-    "url": "/static/media/soundwave2.b00aa22d.jpg"
+    "url": "/static/media/soundwave2_1.b00aa22d.jpg"
   },
   {
     "revision": "81fbf07bce4ca29b5e18e1bb78767fb6",
