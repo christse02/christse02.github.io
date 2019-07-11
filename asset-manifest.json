@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.7c49399a.chunk.css",
+    "main.css": "/static/css/main.ccdcc796.chunk.css",
     "main.js": "/static/js/main.e35e513d.chunk.js",
     "main.js.map": "/static/js/main.e35e513d.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -9,10 +9,10 @@
     "static/js/2.9b0df22a.chunk.js": "/static/js/2.9b0df22a.chunk.js",
     "static/js/2.9b0df22a.chunk.js.map": "/static/js/2.9b0df22a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3bfa66d979b130f23c39111aec8793cf.js": "/precache-manifest.3bfa66d979b130f23c39111aec8793cf.js",
+    "precache-manifest.93e8ab25297620cea7a750eb09a85a83.js": "/precache-manifest.93e8ab25297620cea7a750eb09a85a83.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.7c49399a.chunk.css.map": "/static/css/main.7c49399a.chunk.css.map",
+    "static/css/main.ccdcc796.chunk.css.map": "/static/css/main.ccdcc796.chunk.css.map",
     "static/media/App.css": "/static/media/TOMATOES.5eeaab68.ttf",
     "static/media/audio.png": "/static/media/audio.b9dda4f1.png",
     "static/media/bestFyp.png": "/static/media/bestFyp.6985cca8.png",
